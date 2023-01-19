@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Wtsup/app/src/main/res/drawable/ic_chat.xml" value="0.1355" />
+        <entry key="..\:/Wtsup/app/src/main/res/drawable/profile.xml" value="0.1355" />
+        <entry key="..\:/Wtsup/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Wtsup/app/src/main/res/layout/call_itemfile.xml" value="0.23072916666666668" />
+        <entry key="..\:/Wtsup/app/src/main/res/layout/chat_itemfile.xml" value="0.2" />
+        <entry key="..\:/Wtsup/app/src/main/res/layout/fragment_call.xml" value="0.24739583333333334" />
+        <entry key="..\:/Wtsup/app/src/main/res/layout/fragment_chat.xml" value="0.2101851851851852" />
+        <entry key="..\:/Wtsup/app/src/main/res/layout/fragment_status.xml" value="0.2" />
+        <entry key="..\:/Wtsup/app/src/main/res/layout/profileimg.xml" value="0.234375" />
+        <entry key="..\:/Wtsup/app/src/main/res/layout/status_itemfile.xml" value="0.23333333333333334" />
+        <entry key="..\:/Wtsup/app/src/main/res/layout/tabitem.xml" value="0.23333333333333334" />
+        <entry key="..\:/Wtsup/app/src/main/res/menu/menufile.xml" value="0.234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
